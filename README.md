@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaniel</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [a mini pacman game](https://github.com/jinyo24/pacman/)
+- 🔭 I’m currently working on [a mini pacman game](https://github.com/jinyo24/PacMen/)
 
 - 🌱 I’m currently learning **the MERN Stack**
 
