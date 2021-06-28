@@ -14,18 +14,17 @@
 - Start the game with "Start Game" button
 - Click as many times as you want the "Start Game" button to increase the speed
 
-<h3 align="center">Future improvements:</h3>
+<h3>Future improvements:</h3>
 
-•	Create a "Pause" button
-•	Create a "Stop" button
-•	Create a "Restart" button
+- Create a "Pause" button
+- Create a "Stop" button
+- Create a "Restart" button
 
-<h3 align="center">License:</h3>
+<h3>License:</h3>
 
 <a href="https://choosealicense.com/licenses/mit/" target="_blank"> MIT </a> 
-
     
-<h3 align="center">Additional Information:</h3>    
+<h3>Additional Information:</h3>    
 
 - 🔭 I’m currently working on [a mini pacman game](https://github.com/jinyo24/PacMen/)
 
